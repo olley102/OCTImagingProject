@@ -19,3 +19,8 @@ data/centered_image.npy
 data/centered_image_gray.npy
 .ipynb_checkpoints/ImageAlignment-checkpoint.ipynb
 .ipynb_checkpoints/OCTImageAlignment-checkpoint.ipynb
+/.ipynb_checkpoints
+/.ipynb_checkpoints
+.ipynb_checkpoints/Centering-checkpoint.ipynb
+.ipynb_checkpoints/DEPREC_RotationCorrection-checkpoint.ipynb
+/data
